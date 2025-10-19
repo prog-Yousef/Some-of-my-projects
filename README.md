@@ -18,7 +18,7 @@
 - 🍽️ [Food Recipe Website](https://prog-yousef.github.io/Food-Recipe-Website/)
   *Discover delicious recipes, search by ingredients, and learn to cook something new every day!*
 
-- 🎶 [Music Playlist App](https://melodious-gelato-3b5714.netlify.app/)
+- 🎶 [Timer + stylish interval app](https://melodious-gelato-3b5714.netlify.app/)
   *An elegant web app to browse, create, and enjoy music playlists.*
 
 - 🏥 [Care Pulse App](https://care-pulse-app.vercel.app/)
