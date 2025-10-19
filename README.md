@@ -1,6 +1,6 @@
 # 🚀 Some of My Projects
 
-- 🎨 [Landing Page #1](https://cute-pasca-e0ef4f.netlify.app/)
+- 🎨 [TO DO + qoutes + timer + stats#1](https://cute-pasca-e0ef4f.netlify.app/)
   *A modern, responsive single-page landing site to showcase creative ideas.*
 
 - 🌐 [Landing Page #2](https://gregarious-cocada-af158a.netlify.app/)
